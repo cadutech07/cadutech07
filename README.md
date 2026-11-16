@@ -24,10 +24,11 @@ Busco evoluir constantemente, aprimorar minhas habilidades e transformar ideias 
   <img alt="Vite" title="Vite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
 </p>
 
-**Programação**
+**Programação e Back-end**
 
 <p align="left">
   <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img alt="Laravel" title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 </p>
 
 **Ferramentas e Ambiente de Desenvolvimento**
