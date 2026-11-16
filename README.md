@@ -1,19 +1,19 @@
 
 # 💻 Carlos Eduardo
 
-**`Estudante de Tecnologia | Desenvolvedor Front-end`**
+**`Estudante de Tecnologia | Desenvolvedor em formação`**
 
-Meu nome é Carlos Eduardo. Sou estudante de tecnologia, com interesse em desenvolvimento web, programação e design de interfaces.
+Meu nome é Carlos Eduardo. Sou estudante de tecnologia, interessado em programação, desenvolvimento de software e design.
 
-Atualmente, estou aprimorando meus conhecimentos em desenvolvimento front-end, trabalhando com tecnologias como HTML, CSS, JavaScript e React. Tenho interesse em criar aplicações web funcionais, com interfaces organizadas e boa experiência de uso.
+Atualmente, estou ampliando meus conhecimentos em diferentes áreas da tecnologia, desenvolvendo projetos práticos e explorando ferramentas e linguagens de programação. Tenho interesse em compreender como as aplicações funcionam, desde a construção das interfaces até a lógica por trás delas.
 
-Busco desenvolver minhas habilidades por meio de projetos práticos, aprendizado contínuo e exploração de novas tecnologias.
+Busco evoluir constantemente, aprimorar minhas habilidades e transformar ideias em projetos funcionais.
 
 ---
 
 ### 🚀 Linguagens e Tecnologias
 
-**Front-end**
+**Desenvolvimento Web**
 
 <p align="left">
   <img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -24,13 +24,13 @@ Busco desenvolver minhas habilidades por meio de projetos práticos, aprendizado
   <img alt="Vite" title="Vite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
 </p>
 
-**Back-end**
+**Programação**
 
 <p align="left">
   <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 </p>
 
-**Ferramentas**
+**Ferramentas e Ambiente de Desenvolvimento**
 
 <p align="left">
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -45,7 +45,7 @@ Busco desenvolver minhas habilidades por meio de projetos práticos, aprendizado
 | Projeto | Descrição |
 |:---|:---|
 | Biblioteca de Estudos | Aplicação web educacional para pesquisa, vídeos e organização de materiais de estudo. |
-| Portfólio | Projeto pessoal para apresentar trabalhos e conhecimentos em desenvolvimento web. |
+| Portfólio | Projeto pessoal para apresentar trabalhos, projetos e conhecimentos em tecnologia. |
 
 ---
 
@@ -65,5 +65,5 @@ Busco desenvolver minhas habilidades por meio de projetos práticos, aprendizado
 ---
 
 <p align="center">
-  <sub>Desenvolvimento, tecnologia e aprendizado contínuo.</sub>
+  <sub>Tecnologia, criatividade e evolução contínua.</sub>
 </p>
