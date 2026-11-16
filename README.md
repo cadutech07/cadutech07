@@ -1,49 +1,83 @@
-# Carlos Eduardo (Cadu)
 
-**`Estudante de Tecnologia | Desenvolvedor Front-end`**
+# 💻 Carlos Eduardo | Cadu
 
-Sou estudante e desenvolvedor em formação, interessado em tecnologia, desenvolvimento web e design de interfaces.
+**`Estudante de Tecnologia • Desenvolvedor Front-end`**
 
-Tenho experiência acadêmica e prática na criação de projetos web, utilizando tecnologias como HTML, CSS, JavaScript, React e Bootstrap. Busco aprimorar meus conhecimentos por meio de projetos próprios, explorando ferramentas e boas práticas de desenvolvimento.
+Me chamo Carlos Eduardo, também conhecido como Cadu ou Cadurama. Sou estudante e entusiasta da tecnologia, com interesse em desenvolvimento web, programação e design.
 
-Meu foco é evoluir tecnicamente, desenvolver soluções funcionais e construir uma trajetória sólida na área de tecnologia.
+Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, explorando tecnologias e criando projetos que unem funcionalidade, organização e identidade visual.
+
+Gosto de transformar ideias em projetos reais, experimentar novas ferramentas e aprender na prática. Entre meus projetos está a **Biblioteca de Estudos**, desenvolvida com o objetivo de facilitar o acesso e a organização de conteúdos educacionais.
+
+Meu objetivo é evoluir constantemente, aprimorar minhas habilidades técnicas e construir minha carreira na área de tecnologia.
 
 ---
 
-### Tecnologias e Ferramentas
+### 🚀 Linguagens e Tecnologias
 
 **Front-end**
 
-\<p align="left">   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)" alt="HTML5"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)" alt="CSS3"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" alt="JavaScript"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)" alt="React"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg)" alt="Bootstrap"/> \</p>
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="Vite" title="Vite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
 
-**Back-end e Linguagens**
+<br/>
 
-\<p align="left">   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)" alt="PHP"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)" alt="Python"/> \</p>
+**Back-end e Programação**
 
-**Ferramentas de Desenvolvimento**
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-\<p align="left">   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)" alt="Git"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)" alt="GitHub"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)" alt="Visual Studio Code"/>   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg)" alt="Vite"/> \</p>
+<br/>
+
+**Ferramentas**
+
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+
+<br/>
+<br/>
 
 ---
 
-### Projetos
+### 📂 Projetos em destaque
 
-- **Biblioteca de Estudos:** aplicação web educacional voltada à pesquisa, consulta de vídeos e organização de materiais de estudo.
-- **Projetos pessoais:** desenvolvimento de interfaces, aplicações web e experimentos com diferentes tecnologias.
-
----
-
-### Estatísticas do GitHub
-
-\<p align="left">
-&#x20; \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&locale=pt-br)"/>
-&#x20; \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&theme=tokyonight\&layout=compact\&custom_title=Principais%20Tecnologias\&langs_count=8)"/>
-\</p>
+| Projeto | Descrição |
+| :--- | :--- |
+| 📚 Biblioteca de Estudos | Projeto educacional para pesquisa, vídeos e organização dos estudos. |
+| 💻 Portfólio | Espaço para apresentar meus projetos, habilidades e evolução na programação. |
 
 ---
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>
-&#x20; \</a>
-\</p>
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    align="left"
+    alt="Linguagens mais utilizadas"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+  />
+</p>
+
+<br clear="both"/>
+
+---
+
+### 🎯 Objetivo
+
+Desenvolver soluções úteis, aprimorar meus conhecimentos e transformar ideias em projetos funcionais, construindo uma trajetória consistente na área de tecnologia.
+
+**Em constante evolução.**
